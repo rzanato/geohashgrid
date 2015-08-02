@@ -5,4 +5,4 @@ using [chrisveness/latlon-geohash](https://github.com/chrisveness/latlon-geohash
 [MarkerWithLabel](http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerwithlabel/src/markerwithlabel.js)
 from [google-maps-utility-library-v3](https://code.google.com/p/google-maps-utility-library-v3/).
 
-[*Direct link*](https://raw.githubusercontent.com/rzanato/geohashgrid/geohashgrid.html)
+[*Direct link*](https://rawgit.com/rzanato/geohashgrid/master/geohashgrid.html)
