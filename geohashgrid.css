@@ -1,0 +1,46 @@
+html, body, #map {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#container {
+	position: absolute;
+	z-index: 99;
+	margin: 5px;
+	left: 30px;
+	top: 0px;
+	cursor: default;
+}
+.label {
+	direction: ltr;
+	overflow: hidden;
+	text-align: center;
+	position: relative;
+	color: rgb(0, 0, 0);
+	font-family: Roboto, Arial, sans-serif;
+	-webkit-user-select: none;
+	font-size: 11px;
+	padding: 1px 6px;
+	border-bottom-left-radius: 2px;
+	border-top-left-radius: 2px;
+	-webkit-background-clip: padding-box;
+	border: 1px solid rgba(0, 0, 0, 0.14902);
+	-webkit-box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px;
+	box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px;
+	min-width: 24px;
+	font-weight: 500;
+	background-color: rgb(255, 255, 255);
+	background-clip: padding-box;
+	white-space: nowrap;
+}
+.marker {
+	color: red;
+	background-color: white;
+	opacity: 0.75;
+	font-family: Roboto, Arial, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: center;
+	border: 1px solid black;
+	white-space: nowrap;
+}
